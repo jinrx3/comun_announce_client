@@ -1,4 +1,4 @@
-# comun_announce_client
+# COMUN_ANNOUNCE_SYSTEM
 小区信息发布系统
 
 主体：一个服务器、多个客户端
